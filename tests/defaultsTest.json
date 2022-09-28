@@ -1,0 +1,19 @@
+{
+  "agents": [
+    {
+      "position": {
+        "x": 1,
+        "y": 1
+      }
+    }
+  ],
+  "obstacles": [
+    {
+      "position": {
+        "x": 1,
+        "y": 1
+      },
+      "type": "LAKE"
+    }
+  ]
+}
